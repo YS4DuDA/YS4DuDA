@@ -11,7 +11,7 @@
 ## 💡 SOBRE MIM: A PROFISSIONAL FULL STACK EM FORMAÇÃO
 
 <p>
-Sou*Maysa Lada, uma profissional em desenvolvimento acelerado no campo da Tecnologia. Minha jornada começou com uma base sólida em TI Operacional e Suporte e evoluiu para a paixão por Desenvolvimento Full Stack (Frontend e Backend).
+Sou Maysa Lada, uma profissional em desenvolvimento acelerado no campo da Tecnologia. Minha jornada começou com uma base sólida em TI Operacional e Suporte e evoluiu para a paixão por Desenvolvimento Full Stack (Frontend e Backend).
 </p>
 <p>
 Minha formação dupla em Análise e Desenvolvimento de Sistemas e Redes de Computadores me dá uma visão completa: eu entendo tanto a arquitetura de código quanto a infraestrutura de rede que o sustenta.
