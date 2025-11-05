@@ -1,10 +1,9 @@
 <div align="center">
-  <h1>MAYSA EDUARDA LADA: Desenvolvedora Full Stack Júnior em Evolução</h1>
+  <h1>MAYSA EDUARDA LADA</h1>
+  <h2>Desenvolvedora Full Stack Júnior em Evolução</h2>
   <p>Estudante de Análise de Sistemas e Redes de Computadores (Em Andamento).</p>
   
   <img src="https://i.imgur.com/KvPhLcG.gif" alt="Desenvolvimento e Sistemas" style="border-radius: 8px; margin: 20px 0;">
-
-  <h2 style="color: #4F4F4F;">[ SISTEMA ATIVO ] - Foco em Entrega e Aprendizado Acelerado</h2>
   
   <hr style="border: 1px solid #D3D3D3; width: 90%;">
 </div>
@@ -12,13 +11,13 @@
 ## 💡 SOBRE MIM: A PROFISSIONAL FULL STACK EM FORMAÇÃO
 
 <p>
-Sou **Maysa Lada**, uma profissional em desenvolvimento acelerado no campo da Tecnologia. Minha jornada começou com uma base sólida em **TI Operacional e Suporte** e evoluiu para a paixão por **Desenvolvimento Full Stack** (Frontend e Backend).
+Sou*Maysa Lada, uma profissional em desenvolvimento acelerado no campo da Tecnologia. Minha jornada começou com uma base sólida em TI Operacional e Suporte e evoluiu para a paixão por Desenvolvimento Full Stack (Frontend e Backend).
 </p>
 <p>
-Minha formação dupla em **Análise e Desenvolvimento de Sistemas** e **Redes de Computadores** me dá uma visão completa: eu entendo tanto a **arquitetura de código** quanto a **infraestrutura de rede** que o sustenta.
+Minha formação dupla em Análise e Desenvolvimento de Sistemas e Redes de Computadores me dá uma visão completa: eu entendo tanto a arquitetura de código quanto a infraestrutura de rede que o sustenta.
 </p>
 <p>
-Meu foco atual é construir soluções robustas, com proficiência em **JavaScript/TypeScript** no front-end e **Python** no back-end. Busco oportunidades para aplicar minhas habilidades em projetos desafiadores e transformar a proatividade e a paixão por aprender em resultados concretos.
+Meu foco atual é construir soluções robustas, com proficiência em JavaScript/TypeScript no front-end e Python no back-end. Busco oportunidades para aplicar minhas habilidades em projetos desafiadores e transformar a proatividade e a paixão por aprender em resultados concretos.
 </p>
 
 <hr>
