@@ -8,7 +8,7 @@
   <hr style="border: 1px solid #D3D3D3; width: 90%;">
 </div>
 
-## 💡 SOBRE MIM: A PROFISSIONAL FULL STACK EM FORMAÇÃO
+## SOBRE MIM: A PROFISSIONAL FULL STACK EM FORMAÇÃO
 
 <p>
 Sou Maysa Lada, uma profissional em desenvolvimento acelerado no campo da Tecnologia. Minha jornada começou com uma base sólida em TI Operacional e Suporte e evoluiu para a paixão por Desenvolvimento Full Stack (Frontend e Backend).
@@ -22,7 +22,7 @@ Meu foco atual é construir soluções robustas, com proficiência em JavaScript
 
 <hr>
 
-## 🛠️ DASHBOARD DE SKILLS: TECNOLOGIA E COMPETÊNCIAS
+## DASHBOARD DE SKILLS: TECNOLOGIA E COMPETÊNCIAS
 
 ### 💻 1. Desenvolvimento Full Stack
 
