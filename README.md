@@ -22,6 +22,7 @@ Tenho foco em construir soluções bem estruturadas, com proficiência em JavaSc
 
 <hr>
 
+## DASHBOARD DE SKILLS:
 
 ### 💻 1. Desenvolvimento Full Stack
 <p>
