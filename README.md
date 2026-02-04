@@ -1,7 +1,7 @@
 <div align="center">
   <h1>MAYSA EDUARDA LADA</h1>
-  <h2>Desenvolvedora Full Stack Júnior em Evolução</h2>
-  <p>Estudante de Análise de Sistemas e Redes de Computadores (Em Andamento).</p>
+  <h2>Desenvolvedora Full Stack</h2>
+  <p>Graduanda de Análise e Desenvolvimento de Sistemas, Redes de Computadores e Desenvolvimento Full Stack(Em Andamento).</p>
   
   <img src="https://i.imgur.com/KvPhLcG.gif" alt="Desenvolvimento e Sistemas" style="border-radius: 8px; margin: 20px 0;">
   
@@ -11,13 +11,15 @@
 ## SOBRE MIM: A PROFISSIONAL FULL STACK EM FORMAÇÃO
 
 <p>
-Sou Maysa Lada, uma profissional em desenvolvimento acelerado no campo da Tecnologia. Minha jornada começou com uma base sólida em TI Operacional e Suporte e evoluiu para a paixão por Desenvolvimento Full Stack (Frontend e Backend).
-</p>
-<p>
-Minha formação dupla em Análise e Desenvolvimento de Sistemas e Redes de Computadores me dá uma visão completa: eu entendo tanto a arquitetura de código quanto a infraestrutura de rede que o sustenta.
-</p>
-<p>
-Meu foco atual é construir soluções robustas, com proficiência em JavaScript/TypeScript no front-end e Python no back-end. Busco oportunidades para aplicar minhas habilidades em projetos desafiadores e transformar a proatividade e a paixão por aprender em resultados concretos.
+Sou Maysa Lada, programadora Full Stack em constante evolução, com uma trajetória construída na prática dentro da área de tecnologia. Minha base começou com suporte técnico, manutenção de computadores, infraestrutura e redes, e com o tempo evoluiu para o desenvolvimento de sistemas — área onde hoje concentro meu foco e paixão.
+
+Atuei na JBS Seara na área de TI, lidando com ambientes corporativos reais, resolução de problemas, atendimento ao usuário e demandas de infraestrutura, o que fortaleceu muito minha visão técnica e minha capacidade de agir com agilidade e responsabilidade.
+
+Além disso, atuo como freelancer, desenvolvendo sites, automações e soluções digitais personalizadas para empresas e profissionais, unindo front-end e back-end para entregar projetos completos e funcionais.
+
+Atualmente curso Análise e Desenvolvimento de Sistemas e também cursei Redes de Computadores por um período, o que me dá uma visão mais completa da tecnologia: não só do código, mas também do que sustenta um sistema por trás.
+
+Tenho foco em construir soluções bem estruturadas, com proficiência em JavaScript/TypeScript no front-end e Python no back-end, sempre buscando aprender, evoluir e transformar conhecimento em resultados reais.
 </p>
 
 <hr>
