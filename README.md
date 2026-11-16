@@ -1,78 +1,128 @@
-&#x20;\<div align="center">
 
-# MAYSA EDUARDA LADA
+<div align="center">
 
-**Analista de Suporte de TI Júnior | Infraestrutura e Redes**
+  <h1>MAYSA EDUARDA LADA</h1>
+  <h3>Analista de Suporte de TI Júnior | Infraestrutura e Redes</h3>
 
-Tecnologia, infraestrutura e desenvolvimento. Sempre aprendendo alguma coisa nova.
+  <p>
+    Tecnologia, infraestrutura e desenvolvimento. Sempre aprendendo alguma coisa nova.
+  </p>
 
-\<img src="[https://i.imgur.com/KvPhLcG.gif](https://i.imgur.com/KvPhLcG.gif)" width="280" alt="Dragão"/>
+  <img src="https://i.imgur.com/KvPhLcG.gif" width="280" alt="Dragão"/>
 
-\<a href="[https://github.com/YS4DuDA](https://github.com/YS4DuDA)">
-\<img src="[https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/-181717?style=flat-square\&logo=github\&logoColor=white)" height="28"/>
-\</a>
-\<a href="[https://linkedin.com/in/maysa-eduarda-lada-819705269](https://linkedin.com/in/maysa-eduarda-lada-819705269)">
-\<img src="[https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)" height="28"/>
-\</a>
+  <br><br>
 
-\</div>
+  <a href="https://github.com/YS4DuDA">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28"/>
+  </a>
 
----
+  <a href="https://linkedin.com/in/maysa-eduarda-lada-819705269">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
+  </a>
 
-## SOBRE MIM
+</div>
 
-Oi! Sou a Maysa, tenho 22 anos e trabalho com Tecnologia da Informação.
+<hr>
 
-Minha experiência começou com suporte técnico e manutenção de computadores, passando por infraestrutura, redes e atendimento ao usuário.
+<h2> SOBRE MIM </h2>
 
-Já trabalhei na TI da JBS Seara e atualmente sou Analista de TI Júnior na Beontag. No dia a dia, tenho contato com suporte corporativo, configuração de equipamentos, impressoras, sistemas e resolução de problemas.
+<p>
+  Oi! Sou a Maysa, tenho 22 anos e trabalho com Tecnologia da Informação.
+</p>
 
-Estou cursando Análise e Desenvolvimento de Sistemas e Redes de Computadores. Também tenho interesse em programação e automação, principalmente com Python e tecnologias web.
+<p>
+  Minha experiência começou com suporte técnico e manutenção de computadores,
+  passando por infraestrutura, redes e atendimento ao usuário.
+</p>
 
----
+<p>
+  Já trabalhei na TI da JBS Seara e atualmente sou Analista de TI Júnior na
+  Beontag. No dia a dia, tenho contato com suporte corporativo, configuração
+  de equipamentos, impressoras, sistemas e resolução de problemas.
+</p>
 
-## TECNOLOGIAS & FERRAMENTAS
+<p>
+  Estou cursando Análise e Desenvolvimento de Sistemas e Redes de Computadores.
+  Também tenho interesse em programação e automação, principalmente com Python
+  e tecnologias web.
+</p>
 
-**Suporte e Infraestrutura**
+<hr>
 
-\<p> \<img src="[https://skillicons.dev/icons?i=windows,powershell](https://skillicons.dev/icons?i=windows,powershell)" /> \<img src="[https://img.shields.io/badge/AD-0078D4?style=flat-square&logo=microsoft&logoColor=white](https://img.shields.io/badge/AD-0078D4?style=flat-square\&logo=microsoft\&logoColor=white)" /> \<img src="[https://img.shields.io/badge/M365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white](https://img.shields.io/badge/M365-D83B01?style=flat-square\&logo=microsoftoffice\&logoColor=white)" /> \</p>
+<h2> TECNOLOGIAS & FERRAMENTAS </h2>
 
-**Redes e Sistemas**
+<h3>Suporte e Infraestrutura</h3>
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=linux,docker,bash](https://skillicons.dev/icons?i=linux,docker,bash)" />
-\<img src="[https://img.shields.io/badge/CMD-333333?style=flat-square&logo=windows-terminal&logoColor=white](https://img.shields.io/badge/CMD-333333?style=flat-square\&logo=windows-terminal\&logoColor=white)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,powershell" />
+  <img src="https://img.shields.io/badge/AD-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/M365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" />
+</p>
 
-**Desenvolvimento**
+<h3>Redes e Sistemas</h3>
 
-\<p> \<img src="[https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css,react](https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css,react)" /> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,bash" />
+  <img src="https://img.shields.io/badge/CMD-333333?style=flat-square&logo=windows-terminal&logoColor=white" />
+</p>
 
-**Banco de Dados**
+<h3>Desenvolvimento</h3>
 
-\<p> \<img src="[https://skillicons.dev/icons?i=mysql,postgresql](https://skillicons.dev/icons?i=mysql,postgresql)" /> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css,react" />
+</p>
 
-**Ferramentas**
+<h3>Banco de Dados</h3>
 
-\<p> \<img src="[https://skillicons.dev/icons?i=git,github,vscode](https://skillicons.dev/icons?i=git,github,vscode)" /> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
 
----
+<h3>Ferramentas</h3>
 
-## FORMAÇÃO
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-- 🎓 Análise e Desenvolvimento de Sistemas — Centro Universitário Integrado.
-- 🎓 Redes de Computadores — Cruzeiro do Sul.
+<hr>
 
----
+<h2> FORMAÇÃO </h2>
 
-## CONECTE-SE COMIGO
+<p>
+  🎓 Análise e Desenvolvimento de Sistemas — Centro Universitário Integrado.
+</p>
 
-\<div align="center">
+<p>
+  🎓 Redes de Computadores — Cruzeiro do Sul.
+</p>
 
-\<a href="[https://github.com/YS4DuDA](https://github.com/YS4DuDA)"> \<img src="[https://skillicons.dev/icons?i=github](https://skillicons.dev/icons?i=github)" width="42"/> \</a> &nbsp;&nbsp; \<a href="[https://linkedin.com/in/maysa-eduarda-lada-819705269](https://linkedin.com/in/maysa-eduarda-lada-819705269)"> \<img src="[https://skillicons.dev/icons?i=linkedin](https://skillicons.dev/icons?i=linkedin)" width="42"/> \</a> &nbsp;&nbsp; \<a href="mailto\:mayeduardalada\@gmail.com"> \<img src="[https://img.icons8.com/fluency/48/gmail-new.png](https://img.icons8.com/fluency/48/gmail-new.png)" width="42"/> \</a> &nbsp;&nbsp; \<a href="[https://wa.me/5544999213541](https://wa.me/5544999213541)"> \<img src="[https://img.icons8.com/fluency/48/whatsapp.png](https://img.icons8.com/fluency/48/whatsapp.png)" width="42"/> \</a>
+<hr>
 
-\<br>\<br>
+<h2> CONECTE-SE COMIGO </h2>
 
-\<i>Feito por Maysa Lada.\</i>
+<div align="center">
 
-\</div>
+  <a href="https://github.com/YS4DuDA">
+    <img src="https://skillicons.dev/icons?i=github" width="42"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/maysa-eduarda-lada-819705269">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="mailto:mayeduardalada@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="42"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://wa.me/5544999213541">
+    <img src="https://img.icons8.com/fluency/48/whatsapp.png" width="42"/>
+  </a>
+
+  <br><br>
+
+  <i>Feito por Maysa Lada.</i>
+
+</div>
