@@ -1,150 +1,82 @@
 
-<!-- ================================================= -->
-<!-- YS4DuDA // DRAGON SYSTEM -->
-<!-- ================================================= -->
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YS4DuDA/Meu_Portfolio/main/static/dragon_programer.png" width="230" alt="YS4DuDA Dragon Mascot"/>
+<img src="static/SEU_AVATAR_PIXEL.png" width="120" alt="Maysa - Pixel Avatar"/>
 
-# <code>YS4DuDA.exe</code>
+# Maysa Eduarda Lada
 
-### `IT SUPPORT // INFRASTRUCTURE // NETWORKS`
+**Analista de Suporte de TI Júnior | Infraestrutura de TI | Service Desk**
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5D4?style=flat-square&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/USER-MAYSA-8A5CFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/MODE-LEARNING-00BFFF?style=flat-square"/>
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00F5D4?style=for-the-badge&logo=vercel&logoColor=black)](https://meu-portfolio-gamma-beryl.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-8A5CFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maysa-eduarda-lada-819705269/)
-[![GitHub](https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YS4DuDA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maysa-eduarda-lada-819705269/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YS4DuDA)
+[![Portfolio](https://img.shields.io/badge/Portfólio-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://meu-portfolio-kappa-beige.vercel.app/)
 
 </div>
 
 ---
 
-### `01 // USER PROFILE`
+## Sobre mim
 
-```bash
-> loading user profile...
-> identity: Maysa Eduarda Lada
-> occupation: IT Support Analyst Junior
-> focus: Infrastructure & Networking
-> education: Systems Analysis and Development
-> status: Constantly evolving...
-> access_granted: true
-```
+Sou profissional de Tecnologia da Informação, com experiência em suporte técnico, infraestrutura e atendimento a ambientes corporativos.
 
-<div align="center">
+Minha trajetória envolve manutenção de equipamentos, configuração de computadores, Active Directory, redes, troubleshooting e suporte aos usuários.
 
-<img src="https://img.shields.io/badge/IT_SUPPORT-0078D4?style=flat-square&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/INFRASTRUCTURE-00BFFF?style=flat-square&logo=serverfault&logoColor=white"/>
-<img src="https://img.shields.io/badge/NETWORKS-8A5CFF?style=flat-square&logo=cisco&logoColor=white"/>
+Atualmente, atuo como Analista de TI Júnior, buscando ampliar meus conhecimentos em infraestrutura, administração de sistemas e operações de TI.
 
-</div>
+Tenho interesse em tecnologia, resolução de problemas e aprimoramento contínuo.
 
----
-
-### `02 // TECH ARSENAL`
+## Ferramentas e tecnologias
 
 <div align="center">
 
-#### SYSTEMS & INFRASTRUCTURE
+### Infraestrutura e sistemas
 
-<img src="https://skillicons.dev/icons?i=windows,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=windows,linux&theme=light"/>
 
-<img src="https://img.shields.io/badge/ACTIVE_DIRECTORY-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/NETWORKING-0EA5E9?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/SERVICE_DESK-8A5CFF?style=for-the-badge&logo=datadog&logoColor=white"/>
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Entra-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking-0A84FF?style=flat-square&logo=cisco&logoColor=white"/>
 
-<br>
+### Desenvolvimento e ferramentas
 
-#### DEVELOPMENT & DATABASE
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql&theme=dark"/>
-
-<br>
-
-#### TOOLS & ENVIRONMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode&theme=light"/>
 
 </div>
 
----
+## Formação acadêmica
 
-### `03 // DEPLOYED PROJECTS`
+- **Análise e Desenvolvimento de Sistemas** — Centro Universitário Integrado | Previsão: 2026.
+- **Redes de Computadores** — Universidade Cruzeiro do Sul | Previsão: 2027.
 
-<div align="center">
+## Projetos
 
-<a href="https://github.com/YS4DuDA/Inovatech-Gestao-de-Ativos">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YS4DuDA&repo=Inovatech-Gestao-de-Ativos&theme=tokyonight&hide_border=true&bg_color=080D19&title_color=00F5D4&icon_color=8A5CFF"/>
-</a>
+| Projeto | Descrição |
+|---|---|
+| [Inovatech](https://github.com/YS4DuDA/Inovatech-Gestao-de-Ativos) | Gestão de ativos e operações de armazém (WMS). |
+| [Controle Operacional Magistral](https://github.com/YS4DuDA/Controle_Operacional_Magistral) | Projeto de gestão e controle operacional. |
+| [Meu Portfólio](https://github.com/YS4DuDA/Meu_Portfolio) | Portfólio pessoal e apresentação de projetos. |
 
-<a href="https://github.com/YS4DuDA/Controle_Operacional_Magistral">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YS4DuDA&repo=Controle_Operacional_Magistral&theme=tokyonight&hide_border=true&bg_color=080D19&title_color=00F5D4&icon_color=8A5CFF"/>
-</a>
-
-<a href="https://github.com/YS4DuDA/Meu_Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YS4DuDA&repo=Meu_Portfolio&theme=tokyonight&hide_border=true&bg_color=080D19&title_color=00F5D4&icon_color=8A5CFF"/>
-</a>
-
-</div>
-
----
-
-### `04 // GITHUB SYSTEM MONITOR`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YS4DuDA&show_icons=true&hide_border=true&bg_color=080D19&title_color=00F5D4&icon_color=8A5CFF&text_color=C9D1D9&ring_color=00F5D4"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YS4DuDA&layout=compact&hide_border=true&bg_color=080D19&title_color=00F5D4&text_color=C9D1D9"/>
-
-<br>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=YS4DuDA&theme=tokyonight&hide_border=true&background=080D19&ring=00F5D4&fire=8A5CFF&currStreakLabel=00F5D4"/>
-
-</div>
-
----
-
-### `05 // EDUCATION DATABASE`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ADS-ANÁLISE_E_DESENVOLVIMENTO_DE_SISTEMAS-00BFFF?style=for-the-badge"/>
-<br>
-<img src="https://img.shields.io/badge/NETWORKS-REDES_DE_COMPUTADORES-8A5CFF?style=for-the-badge"/>
-
-</div>
-
----
-
-### `06 // CONNECTION ESTABLISHED`
+## Conecte-se comigo
 
 <div align="center">
 
 <a href="https://github.com/YS4DuDA">
-<img src="https://img.shields.io/badge/GITHUB-00F5D4?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/maysa-eduarda-lada-819705269/">
-<img src="https://img.shields.io/badge/LINKEDIN-8A5CFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://meu-portfolio-kappa-beige.vercel.app/">
+<img src="https://img.shields.io/badge/Portfólio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://meu-portfolio-gamma-beryl.vercel.app/">
-<img src="https://img.shields.io/badge/MY_PORTFOLIO-00BFFF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+</div>
 
-<br><br>
+---
 
-<img src="https://raw.githubusercontent.com/YS4DuDA/Meu_Portfolio/main/static/dragon_programer.png" width="130"/>
+<div align="center">
 
-### `DRAGON.EXE`
-
-`BUILDING SKILLS. SOLVING PROBLEMS. EVOLVING EVERY DAY.`
-
-<img src="https://img.shields.io/badge/END_OF_TRANSMISSION-00F5D4?style=flat-square"/>
+*Tecnologia, aprendizado e evolução contínua.*
 
 </div>
