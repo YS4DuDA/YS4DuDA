@@ -1,82 +1,130 @@
 
 <div align="center">
 
-<img src="static/SEU_AVATAR_PIXEL.png" width="120" alt="Maysa - Pixel Avatar"/>
+<h1>MAYSA EDUARDA LADA</h1>
+<h3>Analista de Suporte de TI Júnior | Infraestrutura e Redes</h3>
 
-# Maysa Eduarda Lada
+<p>
+Tecnologia, infraestrutura e desenvolvimento. Sempre aprendendo alguma coisa nova.
+</p>
 
-**Analista de Suporte de TI Júnior | Infraestrutura de TI | Service Desk**
+<img src="https://i.imgur.com/KvPhLcG.gif" alt="Meu dragãozinho" width="350">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maysa-eduarda-lada-819705269/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YS4DuDA)
-[![Portfolio](https://img.shields.io/badge/Portfólio-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://meu-portfolio-kappa-beige.vercel.app/)
-
-</div>
-
----
-
-## Sobre mim
-
-Sou profissional de Tecnologia da Informação, com experiência em suporte técnico, infraestrutura e atendimento a ambientes corporativos.
-
-Minha trajetória envolve manutenção de equipamentos, configuração de computadores, Active Directory, redes, troubleshooting e suporte aos usuários.
-
-Atualmente, atuo como Analista de TI Júnior, buscando ampliar meus conhecimentos em infraestrutura, administração de sistemas e operações de TI.
-
-Tenho interesse em tecnologia, resolução de problemas e aprimoramento contínuo.
-
-## Ferramentas e tecnologias
-
-<div align="center">
-
-### Infraestrutura e sistemas
-
-<img src="https://skillicons.dev/icons?i=windows,linux&theme=light"/>
-
-<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Entra-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
-<img src="https://img.shields.io/badge/Networking-0A84FF?style=flat-square&logo=cisco&logoColor=white"/>
-
-### Desenvolvimento e ferramentas
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode&theme=light"/>
-
-</div>
-
-## Formação acadêmica
-
-- **Análise e Desenvolvimento de Sistemas** — Centro Universitário Integrado | Previsão: 2026.
-- **Redes de Computadores** — Universidade Cruzeiro do Sul | Previsão: 2027.
-
-## Projetos
-
-| Projeto | Descrição |
-|---|---|
-| [Inovatech](https://github.com/YS4DuDA/Inovatech-Gestao-de-Ativos) | Gestão de ativos e operações de armazém (WMS). |
-| [Controle Operacional Magistral](https://github.com/YS4DuDA/Controle_Operacional_Magistral) | Projeto de gestão e controle operacional. |
-| [Meu Portfólio](https://github.com/YS4DuDA/Meu_Portfolio) | Portfólio pessoal e apresentação de projetos. |
-
-## Conecte-se comigo
-
-<div align="center">
+<br>
 
 <a href="https://github.com/YS4DuDA">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-YS4DuDA-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
-<a href="https://www.linkedin.com/in/maysa-eduarda-lada-819705269/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://meu-portfolio-kappa-beige.vercel.app/">
-<img src="https://img.shields.io/badge/Portfólio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+
+<hr width="90%">
 
 </div>
 
----
+## SOBRE MIM
+
+<p>
+Oi! Sou a Maysa, tenho 22 anos e trabalho com Tecnologia da Informação. Minha experiência começou com suporte técnico e manutenção de computadores, passando por infraestrutura, redes e atendimento ao usuário.
+</p>
+
+<p>
+Já trabalhei na TI da JBS Seara e atualmente sou Analista de TI Júnior na Beontag. No dia a dia, tenho contato com suporte corporativo, configuração de equipamentos, impressoras, sistemas e resolução de problemas.
+</p>
+
+<p>
+Estou cursando Análise e Desenvolvimento de Sistemas e Redes de Computadores. Também tenho interesse em programação e automação, principalmente com Python e tecnologias web.
+</p>
+
+<hr>
+
+## DASHBOARD DE SKILLS
+
+### ⚙️ 1. Suporte Técnico e Infraestrutura
+
+<p>
+<img src="https://img.shields.io/badge/Windows%2010%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+<img src="https://img.shields.io/badge/Service%20Desk-555555?style=for-the-badge">
+<img src="https://img.shields.io/badge/Suporte%20Técnico-555555?style=for-the-badge">
+<img src="https://img.shields.io/badge/Hardware-A9A9A9?style=for-the-badge">
+<img src="https://img.shields.io/badge/Infraestrutura%20de%20TI-0A66C2?style=for-the-badge">
+</p>
+
+### 🌐 2. Redes e Sistemas
+
+<p>
+<img src="https://img.shields.io/badge/Redes%20de%20Computadores-4B0082?style=for-the-badge">
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+<img src="https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=windows-terminal&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white">
+<img src="https://img.shields.io/badge/Impressoras%20Zebra-FF6600?style=for-the-badge">
+<img src="https://img.shields.io/badge/Docker%20(Em%20estudo)-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</p>
+
+### 💻 3. Desenvolvimento e Banco de Dados
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/React%20(Em%20estudo)-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/MySQL-005792?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+### 🔧 4. Ferramentas
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</p>
+
+<hr>
+
+## 📚 FORMAÇÃO
+
+- Análise e Desenvolvimento de Sistemas — Centro Universitário Integrado.
+- Redes de Computadores — Cruzeiro do Sul.
+
+<hr>
+
+## 📊 MEU GITHUB
 
 <div align="center">
 
-*Tecnologia, aprendizado e evolução contínua.*
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YS4DuDA&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br">
+
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YS4DuDA&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br">
+
+</div>
+
+<hr>
+
+## 🌐 PORTAL DE CONEXÃO
+
+<div align="center">
+
+<p>
+Quer trocar uma ideia sobre tecnologia, compartilhar conhecimentos ou conversar sobre oportunidades? Me chama!
+</p>
+
+<a href="https://linkedin.com/in/maysa-eduarda-lada-819705269">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:mayeduardalada@gmail.com">
+<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://wa.me/5544999213541">
+<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+<br><br>
+
+<i>Feito por Maysa Lada.</i>
 
 </div>
